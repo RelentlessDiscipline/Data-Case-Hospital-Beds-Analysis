@@ -1,0 +1,629 @@
+﻿Provnce,Health region,Hospital name,Type of hospital,Teaching status,Intensive Care,Obstetrics,Pediatrics,Mental Health and Addictions ,Rehabilitation,Long-Term Care,Other Acute
+ON,Central East LHIN,Scarborough Health Network,G,Non-Teaching,62,50,26,92,20,33,482
+ON,Central LHIN,Humber River Hospital,G,Non-Teaching,41,25,14,64,18,0,466
+ON,Central LHIN,Mackenzie Health,G,Non-Teaching,30,14,6,25,23,74,259
+ON,Central LHIN,Markham Stouffville Hospital,G,Non-Teaching,10,29,5,33,31,10,188
+ON,Central LHIN,North York General Hospital,G,Non-Teaching,21,28,12,50,,,320
+AB,Calgary Zone,Alberta Children’s Hospital,S-Ped,Teaching,15,,92,12,0,,8
+AB,Calgary Zone,Canmore General Hospital,"G,E",Non-Teaching,,,,,,23,21
+AB,Calgary Zone,Claresholm General Hospital,G,Non-Teaching,,,,,,,16
+AB,Calgary Zone,Covenant Health Mineral Springs Hospital,"G,E",Non-Teaching,,,,,,25,22
+AB,Calgary Zone,Didsbury District Health Services,"G,E",Non-Teaching,,,,,,21,16
+AB,Calgary Zone,Foothills Medical Centre,G,Teaching,68,53,,81,45,,795
+AB,Calgary Zone,High River General Hospital,"G,E",Non-Teaching,,2,,,,50,25
+AB,Calgary Zone,Oilfields General Hospital,"G,E",Non-Teaching,,,,,,30,15
+AB,Calgary Zone,Peter Lougheed Centre,G,Teaching,24,46,12,110,,,303
+AB,Calgary Zone,Rockyview General Hospital,G,Teaching,17,40,,80,50,,398
+AB,Calgary Zone,South Health Campus,G,Non-Teaching,12,24,,36,,,184
+AB,Calgary Zone,Strathmore District Health Services,"G,E",Non-Teaching,,,,,,,23
+AB,Calgary Zone,Vulcan Community Health Centre,"G,E",Non-Teaching,,,,,,15,8
+AB,Central Zone,Bentley Care Centre,E,Non-Teaching,,,,,,16,
+AB,Central Zone,Bethany Meadows,E,Non-Teaching,,,,,,,
+AB,Central Zone,Breton Health Centre,E,Non-Teaching,,,,,,23,
+AB,Central Zone,Consort Hospital and Care Centre,G,Non-Teaching,,,,,,15,5
+AB,Central Zone,Coronation Hospital and Care Centre,G,Non-Teaching,,,,,,23,10
+AB,Central Zone,Covenant Health Killam Health Care Centre,"G,E",Non-Teaching,,,,,,45,5
+AB,Central Zone,Covenant Health Mary Immaculate Care Centre,E,Non-Teaching,,,,,,30,
+AB,Central Zone,Covenant Health Our Lady of the Rosary Hospital,E,Non-Teaching,,,,,,22,5
+AB,Central Zone,Covenant Health St. Joseph’s General Hospital,G,Non-Teaching,,,,,,,23
+AB,Central Zone,Covenant Health St. Mary’s Hospital [Camrose],G,Non-Teaching,,18,,10,,,48
+AB,Central Zone,Daysland Health Centre,G,Non-Teaching,,,,,,,26
+AB,Central Zone,Drayton Valley Hospital and Care Centre,G,Non-Teaching,,,,,4,50,28
+AB,Central Zone,Drumheller Health Centre,G,Non-Teaching,,,,,4,96,33
+AB,Central Zone,Hanna Health Centre,G,Non-Teaching,,,,,,,17
+AB,Central Zone,Hardisty Health Centre,"G,E",Non-Teaching,,,,,,15,5
+AB,Central Zone,Innisfail Health Centre,G,Non-Teaching,,,,,,78,28
+AB,Central Zone,Lacombe Hospital and Care Centre,G,Non-Teaching,,,,,4,75,31
+AB,Central Zone,Lamont Health Care Centre,"G,E",Non-Teaching,,,,,,,15
+AB,Central Zone,Mannville Care Centre,E,Non-Teaching,,,,,,23,
+AB,Central Zone,Olds Hospital and Care Centre,G,Non-Teaching,,,,,5,45,33
+AB,Central Zone,Ponoka Hospital and Care Centre,G,Non-Teaching,,,,,,28,29
+AB,Central Zone,Provost Health Centre,"G,E",Non-Teaching,,,,,,47,15
+AB,Central Zone,Red Deer Regional Hospital Centre,G,Non-Teaching,18,23,10,40,30,,232
+AB,Central Zone,Rimbey Hospital and Care Centre,G,Non-Teaching,,,,,,84,23
+AB,Central Zone,Rocky Mountain House Health Centre,G,Non-Teaching,,,,,,,31
+AB,Central Zone,Stettler Hospital and Care Centre,G,Non-Teaching,,,,,4,46,26
+AB,Central Zone,Sundre Hospital and Care Centre,G,Non-Teaching,,,,,4,5,14
+AB,Central Zone,The Centennial Centre for Mental Health and Brain Injury,S-Psy,Teaching,,,,330,,,
+AB,Central Zone,Three Hills Health Centre,G,Non-Teaching,,,,,,24,21
+AB,Central Zone,Tofield Health Centre,"G,E",Non-Teaching,,,,,,50,16
+AB,Central Zone,Two Hills Health Centre,"G,E",Non-Teaching,,,,,12,56,15
+AB,Central Zone,Vermilion Health Centre,"G,E",Non-Teaching,,,,,,,25
+AB,Central Zone,Viking Health Centre,G,Non-Teaching,,,,,,,16
+AB,Central Zone,Wainwright Health Centre,"G,E",Non-Teaching,,,,,,69,25
+AB,Central Zone,Wetaskiwin Hospital and Care Centre,G,Non-Teaching,3,5,10,,4,28,47
+AB,Edmonton Zone,Alberta Hospital Edmonton,S-Psy,Teaching,,,,295,,,
+AB,Edmonton Zone,Covenant Health Grey Nuns Community Hospital,G,Teaching,18,31,,69,,,208
+AB,Edmonton Zone,Covenant Health Misericordia Community Hospital,G,Teaching,20,20,,28,16,,210
+AB,Edmonton Zone,Cross Cancer Institute,C,Non-Teaching,,,,,,,55
+AB,Edmonton Zone,Devon General Hospital,G,Non-Teaching,,,,,,14,10
+AB,Edmonton Zone,Fort Saskatchewan Community Hospital,G,Non-Teaching,,,,,,,36
+AB,Edmonton Zone,Glenrose Rehabilitation Hospital,R,Non-Teaching,,,,48,196,,
+AB,Edmonton Zone,Leduc Community Hospital,G,Non-Teaching,,,,,,,74
+AB,Edmonton Zone,Royal Alexandra Hospital,G,Teaching,35,45,,64,30,,639
+AB,Edmonton Zone,Strathcona Community Hospital,G,Non-Teaching,,,,,,,
+AB,Edmonton Zone,Sturgeon Community Hospital,G,Non-Teaching,18,23,,,,,125
+AB,Edmonton Zone,University of Alberta Hospital,G,Teaching,116,,,46,,,670
+AB,Edmonton Zone,WestView Health Centre,G,Non-Teaching,,,,,,40,29
+AB,North Zone,Athabasca Healthcare Centre,G,Non-Teaching,,,,,,23,27
+AB,North Zone,Barrhead Healthcare Centre,G,Non-Teaching,,,,,,,34
+AB,North Zone,Beaverlodge Municipal Hospital,G,Non-Teaching,,,,,,,18
+AB,North Zone,Boyle Healthcare Centre,G,Non-Teaching,,,,,,,20
+AB,North Zone,Central Peace Health Complex,G,Non-Teaching,,,,,,16,12
+AB,North Zone,Cold Lake Healthcare Centre,G,Non-Teaching,,,,,,31,24
+AB,North Zone,Covenant Health Bonnyville Healthcare Centre,G,Non-Teaching,,,,,,30,33
+AB,North Zone,Edson Healthcare Centre,G,Non-Teaching,,,,,,,24
+AB,North Zone,Elk Point Healthcare Centre,G,Non-Teaching,,,,,,30,12
+AB,North Zone,Fairview Health Complex,G,Non-Teaching,,,,,,67,25
+AB,North Zone,Fox Creek Healthcare Centre,G,Non-Teaching,,,,,,,4
+AB,North Zone,George McDougall Smoky Lake Healthcare Centre,G,Non-Teaching,,,,,,23,12
+AB,North Zone,Grande Cache Community Health Complex,G,Non-Teaching,,,,,,,12
+AB,North Zone,High Prairie Health Complex,G,Non-Teaching,,,,,,,30
+,North Zone,Hinton Healthcare Centre,G,Non-Teaching,,,,,,,23
+AB,North Zone,Manning Community Health Centre,G,Non-Teaching,,,,,,16,11
+AB,North Zone,Mayerthorpe Healthcare Centre,G,Non-Teaching,,,,,,30,24
+AB,North Zone,Northern Lights Regional Health Centre,"G,E",Non-Teaching,6,11,8,10,,31,70
+AB,North Zone,Northwest Health Centre,G,Non-Teaching,,,,,,11,21
+AB,North Zone,Peace River Community Health Centre,G,Non-Teaching,,,,,6,34,31
+AB,North Zone,Queen Elizabeth II Hospital,G,Non-Teaching,6,22,10,14,,,99
+AB,North Zone,Redwater Health Centre,G,Non-Teaching,,,,,,7,14
+AB,North Zone,Sacred Heart Community Health Centre,G,Non-Teaching,,,,,,,20
+AB,North Zone,Seton (Jasper) Healthcare Centre,G,Non-Teaching,,,,,,,11
+AB,North Zone,Slave Lake Healthcare Centre,G,Non-Teaching,,,,,,20,24
+AB,North Zone,St. Theresa General Hospital,"G,E",Non-Teaching,,,,,,8,26
+AB,North Zone,St. Therese-St. Paul Healthcare Centre,G,Non-Teaching,,,,10,,30,30
+AB,North Zone,Swan Hills Healthcare Centre,G,Non-Teaching,,,,,,,4
+AB,North Zone,Valleyview Health Centre,G,Non-Teaching,,,,,,25,20
+AB,North Zone,Wabasca/Desmarais Healthcare Centre,G,Non-Teaching,,,,,,,10
+AB,North Zone,Westlock Healthcare Centre,G,Non-Teaching,,,,,8,112,46
+AB,North Zone,Whitecourt Healthcare Centre,G,Non-Teaching,,,,,,,22
+AB,North Zone,William J. Cadzow  Lac La Biche Healthcare Centre,G,Non-Teaching,,,,,,41,23
+AB,South Zone,Bassano Health Centre,G,Non-Teaching,,,,,,8,4
+AB,South Zone,Big Country Hospital,G,Non-Teaching,,,,,,30,10
+AB,South Zone,Bow Island Health Centre,G,Non-Teaching,,,,,,20,10
+AB,South Zone,Brooks Health Centre,G,Teaching,,,,,,,37
+AB,South Zone,Cardston Health Centre,G,Non-Teaching,,,,,,12,19
+AB,South Zone,Chinook Regional Hospital,G,Non-Teaching,14,25,11,41,25,,156
+AB,South Zone,Covenant Health St. Michael’s Health Centre,E,Non-Teaching,,,,,24,72,10
+AB,South Zone,Crowsnest Pass Health Centre,G,Non-Teaching,,,,,,58,16
+AB,South Zone,Fort Macleod Health Centre,G,Non-Teaching,,,,,,4,
+AB,South Zone,Medicine Hat Regional Hospital,G,Non-Teaching,10,14,10,31,30,,108
+AB,South Zone,Milk River Health Centre,G,Non-Teaching,,,,,,24,
+AB,South Zone,Pincher Creek Health Centre,G,Non-Teaching,,,,,,,19
+AB,South Zone,Raymond Health Centre,G,Non-Teaching,,,,,,5,12
+AB,South Zone,Taber Health Centre,G,Non-Teaching,,,,,,10,19
+BC,Fraser Health,Abbotsford Regional Hospital and Cancer Centre,"G,S-Psy",Non-Teaching,16,48,12,27,,,178
+BC,Fraser Health,Burnaby Hospital,"G,E,S-Psy",Non-Teaching,9,27,,25,,,216
+BC,Fraser Health,Chilliwack General Hospital,"G,E,S-Psy",Non-Teaching,6,20,,14,,90,101
+BC,Fraser Health,Cottage-Worthington Pavilion,"E,R",Non-Teaching,,,,,25,119,
+BC,Fraser Health,Delta Hospital,"E,G",Non-Teaching,,,,,,92,58
+BC,Fraser Health,Eagle Ridge Hospital,"E,G,R",Non-Teaching,,,,,,75,168
+BC,Fraser Health,Fraser Canyon Hospital,"E,G",Non-Teaching,,,,,,50,10
+BC,Fraser Health,Langley Memorial Hospital,"E,G,S-Psy",Non-Teaching,12,28,9,18,,220,135
+BC,Fraser Health,Menno Hospital,E,Non-Teaching,,,,,,,
+BC,Fraser Health,Mission Memorial Hospital,"E,G",Non-Teaching,,,,,,200,45
+BC,Fraser Health,Peace Arch Hospital,"E,G,S-Psy",Non-Teaching,7,14,,11,20,234,126
+BC,Fraser Health,Queen’s Park & Fellburn Care Centres,"E,R",Non-Teaching,,,,,79,150,
+BC,Fraser Health,Ridge Meadows Hospital and Health Care Centre,"G,E,S-Psy",Non-Teaching,7,26,,20,25,148,93
+BC,Fraser Health,Royal Columbian Hospital,"G,S-Psy,S-Ped",Teaching,51,56,12,30,,,281
+BC,Fraser Health,St. Michael’s Centre,E,Non-Teaching,,,,,,,
+BC,Fraser Health,Surrey Memorial Hospital,"G,S-Psy",Teaching,41,75,16,83,20,,423
+BC,Interior Health,100 Mile District General Hospital,G,Non-Teaching,,,,,,,21
+BC,Interior Health,Arrow Lakes Hospital,G,Non-Teaching,,,,,,,6
+BC,Interior Health,Ashcroft Hospital and Community Health Centre,E,Non-Teaching,,,,,,,
+BC,Interior Health,Boundary Hospital,G,Non-Teaching,,,,,,,14
+BC,Interior Health,Cariboo Memorial Hospital,G,Non-Teaching,3,14,,,,,20
+BC,Interior Health,Creston Valley Hospital,G,Non-Teaching,,,,,,,18
+BC,Interior Health,Dr. Helmcken Memorial Hospital,G,Non-Teaching,,,,,,,8
+BC,Interior Health,East Kootenay Regional Hospital,"G,S-Psy",Non-Teaching,6,8,2,10,,,55
+BC,Interior Health,Elk Valley Hospital,G,Non-Teaching,,,,,,,21
+BC,Interior Health,Golden and District General Hospital,G,Non-Teaching,,,,,,,9
+BC,Interior Health,Hillside Centre,S-Psy,Non-Teaching,,,,47,,,
+BC,Interior Health,Invermere and District Hospital,G,Non-Teaching,,,,,,,9
+BC,Interior Health,Kelowna General Hospital,G,Teaching,29,31,10,44,38,,307
+BC,Interior Health,Kootenay Boundary Regional Hospital,"G,S-Psy",Non-Teaching,6,6,4,12,,,50
+BC,Interior Health,Kootenay Lake Hospital,G,Non-Teaching,,,,,,,33
+BC,Interior Health,Lillooet Hospital and Health Centre,G,Non-Teaching,,,,,,,8
+BC,Interior Health,Nicola Valley Health Centre,G,Non-Teaching,,,,,,,8
+BC,Interior Health,Overlander Extended Care Hospital,E,Non-Teaching,,,,,,,
+BC,Interior Health,Penticton Regional Hospital,"G,S-Psy",Non-Teaching,7,31,11,15,13,,75
+BC,Interior Health,Pleasant Valley Health Centre,E,Non-Teaching,,,,,,,
+BC,Interior Health,Princeton General Hospital,G,Non-Teaching,,,,,,,6
+BC,Interior Health,Queen Victoria Hospital,G,Non-Teaching,,,,,,,16
+BC,Interior Health,Royal Inland Hospital,"G,S-Psy",Non-Teaching,16,24,9,28,32,,157
+BC,Interior Health,Shuswap Lake General Hospital,G,Non-Teaching,3,8,,,,,37
+BC,Interior Health,South Hills Tertiary Psychiatric Rehabilitation Centre,S-Psy,Non-Teaching,,,,40,,,
+BC,Interior Health,South Okanagan General Hospital,G,Non-Teaching,,,,,,,18
+BC,Interior Health,Summerland Health Centre,E,Non-Teaching,,,,,,,
+BC,Interior Health,Vernon Jubilee Hospital,"G,S-Psy",Non-Teaching,10,25,,17,,,144
+BC,Interior Health,Victorian Community Health Centre of Kaslo,E,Non-Teaching,,,,,,,
+BC,Island Health,Chemainus Health Care Centre,E,Non-Teaching,,,,,,,
+BC,Island Health,Cormorant Island Community Health Centre,"E,G",Non-Teaching,,,,,,10,4
+BC,Island Health,Cowichan District Hospital,"G,S-Psy",Non-Teaching,7,20,,15,,,98
+BC,Island Health,Juan de Fuca Hospitals,E,Non-Teaching,,,,,,,
+BC,Island Health,Lady Minto Gulf Islands Hospital,"E,G",Non-Teaching,,,,,,29,22
+BC,Island Health,Mount St. Mary Hospital,E,Non-Teaching,,,,,,,
+BC,Island Health,Nanaimo Regional General Hospital,"G,S-Psy",Non-Teaching,10,34,8,31,25,,247
+BC,Island Health,Port Hardy Hospital,"E,G",Non-Teaching,,,,,,22,12
+BC,Island Health,Port McNeill and District Hospital,G,Non-Teaching,,,,,,,10
+BC,Island Health,Queen Alexandra Centre for Children’s Health,S-Ped,Non-Teaching,,,,14,,,
+BC,Island Health,Royal Jubilee Hospital,"G,S-Psy",Teaching,27,,,84,32,,354
+BC,Island Health,Saanich Peninsula Hospital,"E,G",Non-Teaching,,,,,,143,65
+BC,Island Health,The North Island Hospital Campbell River and District Campus,G,Non-Teaching,13,11,3,,,,72
+BC,Island Health,The Views at St. Joseph’s,E,Non-Teaching,,,,,,141,4
+BC,Island Health,The North Island Hospital Comox Valley Campus,"G,S-Psy",Non-Teaching,14,16,3,15,,,107
+BC,Island Health,Tofino General Hospital,G,Non-Teaching,,,,,,,12
+BC,Island Health,Victoria General Hospital,G,Teaching,14,64,16,,20,,243
+BC,Island Health,West Coast General Hospital,"G,S-Psy",Non-Teaching,3,8,,,,,45
+BC,Northern Health,Bulkley Valley District Hospital,G,Non-Teaching,,4,,,,,17
+BC,Northern Health,Chetwynd Hospital and Health Centre,G,Non-Teaching,,,,,,,4
+BC,Northern Health,Dawson Creek and District Hospital,G,Non-Teaching,3,4,,12,,,28
+BC,Northern Health,Fort Nelson General Hospital,G,Non-Teaching,,,,,,,9
+BC,Northern Health,Fort St. John Hospital and Health Centre,G,Non-Teaching,3,8,,,,,37
+BC,Northern Health,G. R. Baker Memorial Hospital,G,Non-Teaching,4,,,5,,,32
+BC,Northern Health,Haida Gwaii Hospital and Health Centre,G,Non-Teaching,,,,,,,5
+BC,Northern Health,Kitimat Hospital and Health Centre,G,Non-Teaching,,,,,,,17
+BC,Northern Health,Lakes District Hospital and Health Centre,G,Non-Teaching,,,,,,,10
+BC,Northern Health,Mackenzie and District Hospital and Health Centre,G,Non-Teaching,,,,,,,4
+BC,Northern Health,McBride and District Hospital,G,Non-Teaching,,,,,,,3
+BC,Northern Health,Mills Memorial Hospital,"G,S-Psy",Non-Teaching,3,4,,9,,,29
+BC,Northern Health,Northern Haida Gwaii Hospital and Health Centre,G,Non-Teaching,,,,,,,4
+BC,Northern Health,Prince Rupert Regional Hospital,G,Non-Teaching,1,,,,,,26
+BC,Northern Health,St. John Hospital,G,Non-Teaching,,,,,,,19
+BC,Northern Health,Stuart Lake Hospital,G,Non-Teaching,,,,,,,4
+BC,Northern Health,University Hospital of Northern British Columbia,"G,S-Psy",Teaching,13,16,6,30,22,,132
+BC,Northern Health,Wrinch Memorial Hospital,G,Non-Teaching,,,,,,,10
+BC,Provincial Health Services Authority,BC Cancer Agency,C,Teaching,,,,,,,25
+BC,Provincial Health Services Authority,Children’s and Women’s Health Centre of British Columbia,"S-Oth,S-Ped,S-Psy",Teaching,18,63,,50,14,,103
+BC,Provincial Health Services Authority,Forensic Psychiatric Hospital,S-Psy,Non-Teaching,,,,181,,,
+BC,Vancouver Coastal Health,Bella Coola General Hospital,G,Non-Teaching,,,,,,,14
+BC,Vancouver Coastal Health,G. F. Strong Rehabilitation Centre,R,Non-Teaching,,,,,62,,
+BC,Vancouver Coastal Health,George Pearson Centre,E,Non-Teaching,,,,,,114,
+BC,Vancouver Coastal Health,Holy Family Hospital,"E,R",Non-Teaching,,,,,65,142,
+BC,Vancouver Coastal Health,Lions Gate Hospital,"E,G,S-Psy",Non-Teaching,9,21,8,36,17,284,161
+BC,Vancouver Coastal Health,Louis Brier Home and Hospital,E,Non-Teaching,,,,,,,
+BC,Vancouver Coastal Health,Mount Saint Joseph Hospital,E,Non-Teaching,6,,,16,,100,73
+BC,Vancouver Coastal Health,Powell River General Hospital,"G,E,S-Psy",Non-Teaching,4,4,,7,,75,18
+BC,Vancouver Coastal Health,R. W. Large Memorial Hospital,G,Non-Teaching,,,,,,,15
+BC,Vancouver Coastal Health,Squamish General Hospital,G,Non-Teaching,,,,,,,21
+BC,Vancouver Coastal Health,St. Mary’s Hospital [Sechelt],"G,E,S-Psy",Non-Teaching,4,3,,6,,49,33
+BC,Vancouver Coastal Health,St. Paul’s Hospital,"G,S-Psy",Teaching,35,44,,67,,,300
+BC,Vancouver Coastal Health,The Richmond Hospital,"G,S-Psy",Non-Teaching,8,15,3,22,,,174
+BC,Vancouver Coastal Health,UBC Hospital,"E,G,S-Psy",Teaching,,,,35,,244,42
+BC,Vancouver Coastal Health,Vancouver General Hospital,"G,E,S-Psy",Teaching,50,,,187,,156,636
+MB,Interlake–Eastern Regional Health Authority,Arborg and Districts Health Centre,G,Non-Teaching,,,,,,,14
+MB,Interlake–Eastern Regional Health Authority,Beausejour District Hospital,G,Non-Teaching,,,,,,,30
+MB,Interlake–Eastern Regional Health Authority,E. M. Crowe Memorial Hospital,G,Non-Teaching,,,,,,,13
+MB,Interlake–Eastern Regional Health Authority,Gimli Community Health Centre,G,Non-Teaching,,,,,,,26
+MB,Interlake–Eastern Regional Health Authority,Lakeshore Health Centre,G,Non-Teaching,,,,,,,14
+MB,Interlake–Eastern Regional Health Authority,Pinawa Hospital,G,Non-Teaching,,,,,,,17
+MB,Interlake–Eastern Regional Health Authority,Pine Falls Health Complex,G,Non-Teaching,,,,,,,23
+MB,Interlake–Eastern Regional Health Authority,Selkirk Regional Health Centre,G,Non-Teaching,,8,,,,,53
+MB,Interlake–Eastern Regional Health Authority,Stonewall and District Health Centre,G,Non-Teaching,,,,,,,15
+MB,Interlake–Eastern Regional Health Authority,Teulon/Hunter Memorial Hospital,G,Non-Teaching,,,,,,,20
+MB,Northern Health Region,Flin Flon General Hospital,G,Non-Teaching,,8,,,,,34
+MB,Northern Health Region,Gillam Hospital Inc.,G,Non-Teaching,,,,,,,10
+MB,Northern Health Region,Lynn Lake Hospital,G,Non-Teaching,,,,,,,19
+MB,Northern Health Region,Snow Lake Health Centre,"G,E",Non-Teaching,,,,,,,4
+MB,Northern Health Region,The Pas Health Complex,"G,S-Psy",Non-Teaching,,8,,8,,,21
+MB,Northern Health Region,Thompson General Hospital,"G,S-Psy",Non-Teaching,,21,8,10,,,32
+MB,Prairie Mountain Health,Baldur Health Centre,G,Non-Teaching,,,,,,,14
+MB,Prairie Mountain Health,Birtle Health Centre,G,Non-Teaching,,,,,,,14
+MB,Prairie Mountain Health,Boissevain Health Centre District,G,Non-Teaching,,,,,,,11
+MB,Prairie Mountain Health,Brandon General Hospital,"G,E,S-Psy,R",Non-Teaching,9,20,7,47,49,48,104
+MB,Prairie Mountain Health,Carberry Health Center,G,Non-Teaching,,,,,,,10
+MB,Prairie Mountain Health,Dauphin Regional Health Centre,"G,R,S-Psy",Non-Teaching,4,8,,10,,,60
+MB,Prairie Mountain Health,Deloraine Health Centre,G,Non-Teaching,,,,,,,14
+MB,Prairie Mountain Health,Erickson District Health Centre,G,Non-Teaching,,,,,,,9
+MB,Prairie Mountain Health,Glenboro Health Centre,G,Non-Teaching,,,,,,,11
+MB,Prairie Mountain Health,Grandview District Hospital,G,Non-Teaching,,,,,,,18
+MB,Prairie Mountain Health,Hamiota District Health Centre,G,Non-Teaching,,,,,,,20
+MB,Prairie Mountain Health,McCreary/Alonsa Health Centre,G,Non-Teaching,,,,,,,13
+MB,Prairie Mountain Health,Melita Health Centre,G,Non-Teaching,,,,,,,11
+MB,Prairie Mountain Health,Minnedosa District Hospital,G,Non-Teaching,,,,,,,27
+MB,Prairie Mountain Health,Neepawa Health Centre,G,Non-Teaching,,,,,,,35
+MB,Prairie Mountain Health,Rivers Health Centre,G,Non-Teaching,,,,,13,,1
+MB,Prairie Mountain Health,Roblin District Health Centre,G,Non-Teaching,,,,,,,25
+MB,Prairie Mountain Health,Rossburn District Health Centre,G,Non-Teaching,,,,,,,9
+MB,Prairie Mountain Health,Russell Health Centre,G,Non-Teaching,,,,,,,30
+MB,Prairie Mountain Health,Shoal Lake-Strathclair Health Centre,G,Non-Teaching,,,,,,,12
+MB,Prairie Mountain Health,Souris Health Centre,G,Non-Teaching,,,,,,,25
+MB,Prairie Mountain Health,Ste. Rose General Hospital,G,Non-Teaching,,,,,,,25
+MB,Prairie Mountain Health,Swan River Valley Hospital,G,Non-Teaching,,,,,16,,36
+MB,Prairie Mountain Health,Tiger Hills Health District,G,Non-Teaching,,,,,,,13
+MB,Prairie Mountain Health,Tri-Lake Health District,G,Non-Teaching,,,,,,,22
+MB,Prairie Mountain Health,Virden District Hospital,G,Non-Teaching,,,,,,,25
+MB,Prairie Mountain Health,Wawanesa and District Memorial Health Centre,G,Non-Teaching,,,,,,,6
+MB,Prairie Mountain Health,Winnipegosis General Hospital,G,Non-Teaching,,,,,,,15
+MB,Southern Health  Santé Sud,Altona Community Memorial,G,Non-Teaching,,,,,,,22
+MB,Southern Health  Santé Sud,Bethesda Hospital,"G,E",Non-Teaching,,,,,20,,53
+MB,Southern Health  Santé Sud,Boundary Trails Health Centre,"G,E",Non-Teaching,,,,,25,,65
+MB,Southern Health  Santé Sud,Carman Memorial Hospital,G,Non-Teaching,,,,,,,25
+MB,Southern Health  Santé Sud,DeSalaberry District Health Centre,G,Non-Teaching,,,,,,,14
+MB,Southern Health  Santé Sud,Emerson Hospital,G,Non-Teaching,,,,,,,4
+MB,Southern Health  Santé Sud,Lorne Memorial Hospital,G,Non-Teaching,,,,,,,18
+MB,Southern Health  Santé Sud,MacGregor Health Centre,G,Non-Teaching,,,,,,,6
+MB,Southern Health  Santé Sud,Morris General Hospital,G,Non-Teaching,,,,,,,23
+MB,Southern Health  Santé Sud,Notre Dame Hospital,G,Non-Teaching,,,,,,,10
+MB,Southern Health  Santé Sud,Pembina Manitou Health Centre,G,Non-Teaching,,,,,,,8
+MB,Southern Health  Santé Sud,Portage District General Hospital,"G,E",Non-Teaching,,,,,,26,58
+MB,Southern Health  Santé Sud,Rock Lake Health District Hospital,G,Non-Teaching,,,,,,,16
+MB,Southern Health  Santé Sud,Seven Regions Health Centre,G,Non-Teaching,,,,,,,14
+MB,Southern Health  Santé Sud,St. Claude Health Centre,G,Non-Teaching,,,,,,,10
+MB,Southern Health  Santé Sud,Ste. Anne Hospital,G,Non-Teaching,,,,,,,21
+MB,Southern Health  Santé Sud,Vita and District Health Centre,G,Non-Teaching,,,,,,,10
+MB,Winnipeg Regional Health Authority,Churchill Health Centre,G,Non-Teaching,,,,,,7,20
+MB,Winnipeg Regional Health Authority,Concordia Hospital,"G,R",Non-Teaching,5,,,,14,,178
+MB,Winnipeg Regional Health Authority,Deer Lodge Centre,E,Non-Teaching,,,,,88,122,
+MB,Winnipeg Regional Health Authority,Grace Hospital,"G,S-Psy,R",Non-Teaching,10,,,20,14,,213
+MB,Winnipeg Regional Health Authority,Health Sciences Centre Winnipeg,"G,S-Ped,S-Psy,S-Oth",Teaching,81,66,,110,31,,429
+MB,Winnipeg Regional Health Authority,Manitoba Adolescent Treatment Centre,S-Psy,Non-Teaching,,,,14,,,
+MB,Winnipeg Regional Health Authority,Misericordia Health Centre,"E,G",Non-Teaching,,,,,,,39
+MB,Winnipeg Regional Health Authority,Riverview Health Centre,"E,G",Non-Teaching,,,,,70,30,30
+MB,Winnipeg Regional Health Authority,Seven Oaks General Hospital,"G,S-Psy,R",Non-Teaching,7,,,38,76,,187
+MB,Winnipeg Regional Health Authority,St. Boniface General Hospital,"G,R,E,S-Psy",Teaching,49,42,,30,,,312
+MB,Winnipeg Regional Health Authority,Victoria General Hospital,"G,R,S-Psy",Non-Teaching,,,,48,30,,89
+NB,Zone 1 (Moncton Area),Dr. Georges-L.-Dumont University Hospital Centre,"G,R,E",Non-Teaching,16,17,14,24,25,50,156
+NB,Zone 1 (Moncton Area),Sackville Memorial Hospital,G,Non-Teaching,,,,,,,21
+NB,Zone 1 (Moncton Area),Stella-Maris-de-Kent Hospital,G,Non-Teaching,,,,,,,20
+NB,Zone 1 (Moncton Area),The Moncton Hospital,"G,E,R",Non-Teaching,23,23,9,31,14,70,212
+NB,Zone 2 (Saint John Area),Centracare,S-Psy,Non-Teaching,,,,50,,,
+NB,Zone 2 (Saint John Area),Charlotte County Hospital,G,Non-Teaching,4,,,,,15,25
+NB,Zone 2 (Saint John Area),Grand Manan Hospital,G,Non-Teaching,,,,,,,8
+NB,Zone 2 (Saint John Area),Saint John Regional Hospital,"G,R",Teaching,43,33,11,23,12,59,305
+NB,Zone 2 (Saint John Area),St. Joseph’s Hospital,E,Non-Teaching,,,,,,104,
+NB,Zone 2 (Saint John Area),Sussex Health Centre,G,Non-Teaching,,,,,,,25
+NB,Zone 3 (Fredericton Area),Dr. Everett Chalmers Regional Hospital,"G,R",Non-Teaching,19,20,12,25,24,30,184
+NB,Zone 3 (Fredericton Area),Hotel-Dieu of St. Joseph,G,Non-Teaching,,,,,,,20
+NB,Zone 3 (Fredericton Area),Oromocto Public Hospital,G,Non-Teaching,,,,,,17,28
+NB,Zone 3 (Fredericton Area),Stan Cassidy Centre for Rehabilitation,R,Non-Teaching,,,,,20,,
+NB,Zone 3 (Fredericton Area),Upper River Valley Hospital,G,Non-Teaching,5,5,,,,,42
+NB,Zone 4 (Edmundston Area),Edmundston Regional Hospital,"G,E",Non-Teaching,10,16,14,15,,61,53
+NB,Zone 4 (Edmundston Area),Grand Falls General Hospital,G,Non-Teaching,,,,,,,20
+NB,Zone 4 (Edmundston Area),Hôtel-Dieu Saint-Joseph de Saint-Quentin,G,Non-Teaching,,,,,,,6
+NB,Zone 5 (Campbellton Area),Campbellton Regional Hospital,"G,E",Non-Teaching,6,18,,20,,25,76
+NB,Zone 5 (Campbellton Area),Restigouche Hospital Centre,S-Psy,Non-Teaching,,,,140,,,
+NB,Zone 6 (Bathurst Area),Chaleur Regional Hospital,"G,E",Non-Teaching,10,17,15,27,,44,102
+NB,Zone 6 (Bathurst Area),Enfant-Jésus RHSJ  Hospital,G,Non-Teaching,,,,,,,12
+NB,Zone 6 (Bathurst Area),Lamèque Hospital and Community Health Centre,G,Non-Teaching,,,,,,,12
+NB,Zone 6 (Bathurst Area),Tracadie-Sheila Hospital,G,Non-Teaching,,,,,,,59
+NB,Zone 7 (Miramichi Area),Miramichi Regional Hospital,"G,R,E",Non-Teaching,8,15,6,12,21,25,60
+NL,Central Health,A. M. Guy Memorial Health Centre,"E,G",Non-Teaching,,,,,,22,
+NL,Central Health,Baie Verte Peninsula Health Centre,"E,G",Non-Teaching,,,,,,19,7
+NL,Central Health,Central Newfoundland Regional Health Centre,"G,S-Psy,S-Ped",Non-Teaching,9,14,,20,,,72
+NL,Central Health,Connaigre Peninsula Health Centre,"E,G",Non-Teaching,,,,,,24,
+NL,Central Health,Dr. Hugh Twomey Health Centre,E,Non-Teaching,,,,,,80,
+NL,Central Health,Dr. Y.K. Jeon Kittiwake Health Centre,"E,G",Non-Teaching,,,,,,45,12
+NL,Central Health,Fogo Island Health Centre,"E,G",Non-Teaching,,,,,,14,
+NL,Central Health,Green Bay Health Centre,"E,G",Non-Teaching,,,,,,80,9
+NL,Central Health,James Paton Memorial Regional Health Centre,G,Non-Teaching,8,10,,,,,67
+NL,Central Health,Notre Dame Bay Memorial Health Centre,"E,G",Non-Teaching,,,,,5,32,12
+NL,Eastern Health,Bonavista Peninsula Health Centre,"E,G",Non-Teaching,,,,,,70,10
+NL,Eastern Health,Burin Peninsula Health Care Centre,G,Non-Teaching,4,9,,,,,22
+NL,Eastern Health,Carbonear General Hospital,G,Non-Teaching,6,10,,,,,56
+NL,Eastern Health,Dr. A. A. Wilkinson Memorial Health Centre,G,Non-Teaching,,,,,,,4
+NL,Eastern Health,Dr. G. B. Cross Memorial Hospital,"G,E,R",Non-Teaching,4,9,,,,44,28
+NL,Eastern Health,Dr. Leonard A. Miller Centre,"R,E,G",Non-Teaching,,,,,62,56,10
+NL,Eastern Health,Dr. S. Beckley Health Centre,"E,G",Non-Teaching,,,,,,61,
+NL,Eastern Health,Dr. Walter Templeman Health Centre,"E,G",Non-Teaching,,,,,,17,3
+NL,Eastern Health,Health Sciences Centre-St. John’s,"G,S-Psy",Teaching,34,34,,20,,,260
+NL,Eastern Health,Janeway Children’s Health and Rehabilitation Centre,"S-Ped,R,S-Psy",Teaching,4,,,8,,,42
+NL,Eastern Health,Placentia Health Centre,"E,G",Non-Teaching,,,,,,75,10
+NL,Eastern Health,St. Clare’s Mercy Hospital,G,Non-Teaching,12,,,,,,180
+NL,Eastern Health,U.S. Memorial Health Centre,"E,G",Non-Teaching,,,,,,40,
+NL,Eastern Health,Waterford Hospital,"S-Psy,E",Non-Teaching,,,,121,,,
+NL,Labrador–Grenfell Health,Charles S. Curtis Memorial Hospital,"G,S-Psy",Non-Teaching,4,14,,,,,24
+NL,Labrador–Grenfell Health,Labrador Health Centre,G,Non-Teaching,,4,,,,,21
+NL,Labrador–Grenfell Health,Labrador South Health Centre,E,Non-Teaching,,,,,,15,
+NL,Labrador–Grenfell Health,Labrador West Health Centre,"G,E",Non-Teaching,,,,,,13,15
+NL,Western Health,Bonne Bay Health Centre,"E,G",Non-Teaching,,,,,,14,8
+NL,Western Health,Calder Health Centre,"E,G",Non-Teaching,,,,,,18,3
+NL,Western Health,Dr. Charles L. LeGrow Health Centre,"E,G",Non-Teaching,,,,,,30,14
+NL,Western Health,Rufus Guinchard Health Care Centre,"E,G",Non-Teaching,,,,,,22,7
+NL,Western Health,Sir Thomas Roddick Hospital,G,Non-Teaching,3,,,,,,41
+NL,Western Health,Western Memorial Regional Hospital,"G,S-Psy,S-Ped",Non-Teaching,8,11,15,23,8,,152
+NS,Central Zone,Dartmouth General Hospital,G,Non-Teaching,8,,,,,,124
+NS,Central Zone,East Coast Forensic Psychiatric Hospital,S-Psy,Non-Teaching,,,,91,,,
+NS,Central Zone,Eastern Shore Memorial Hospital,G,Non-Teaching,,,,,zero,,5
+NS,Central Zone,Hants Community Hospital,"G,E",Non-Teaching,,,,,zero,32,38
+NS,Central Zone,Musquodoboit Valley Memorial Hospital,G,Non-Teaching,,,,,,,6
+NS,Central Zone,Nova Scotia Hospital,S-Psy,Teaching,,,,99,,,
+NS,Central Zone,Queen Elizabeth II Health Sciences Centre,"G,E,R,S-Psy",Teaching,46,,,47,92,175,610
+NS,Central Zone,Twin Oaks Memorial Hospital,G,Non-Teaching,,,,,,,15
+NS,Eastern Zone,Buchanan Memorial Community Health Centre,G,Non-Teaching,,,,,,,10
+NS,Eastern Zone,Cape Breton Healthcare Complex,"G,S-Psy,E,S-Ped",Non-Teaching,19,12,8,52,21,24,317
+NS,Eastern Zone,Eastern Memorial Hospital,G,Non-Teaching,,,,,,,6
+NS,Eastern Zone,Guysborough Memorial Hospital,G,Non-Teaching,,,,,,,10
+NS,Eastern Zone,Inverness Consolidated Memorial Hospital,G,Non-Teaching,,,,,,,21
+NS,Eastern Zone,Sacred Heart Hospital,G,Non-Teaching,,,,,,,10
+NS,Eastern Zone,St. Martha’s Regional Hospital,"G,R,S-Psy,S-Ped,E",Non-Teaching,6,15,,8,13,5,42
+NS,Eastern Zone,St. Mary’s Memorial Hospital,G,Non-Teaching,,,,,,,6
+NS,Eastern Zone,Strait Richmond Hospital,"G,R",Non-Teaching,,,,11,5,,15
+NS,Eastern Zone,Victoria County Memorial Hospital,G,Non-Teaching,,,,,,,12
+NS,IWK Health Centre,IWK Health Centre,"S-Ped,S-Oth",Teaching,5,48,,17,,,65
+NS,Northern Zone,Aberdeen Hospital,"G,S-Psy",Non-Teaching,10,11,,12,,,81
+NS,Northern Zone,All Saints Springhill Hospital,R,Non-Teaching,,,,10,20,,
+NS,Northern Zone,Bayview Memorial Health Centre,E,Non-Teaching,,,,,,,
+NS,Northern Zone,Colchester East Hants Health Centre,"G,S-Psy",Non-Teaching,8,12,,14,,,72
+NS,Northern Zone,Cumberland Regional Health Care Centre,G,Non-Teaching,7,8,,,,,57
+NS,Northern Zone,Lillian Fraser Memorial Hospital,G,Non-Teaching,,,,,,,10
+NS,Northern Zone,North Cumberland Memorial Hospital,G,Non-Teaching,,,,,,,4
+NS,Northern Zone,South Cumberland Community Care Centre,"E,G",Non-Teaching,,,,,,14,2
+NS,Northern Zone,Sutherland Harris Memorial Hospital,"E,R",Non-Teaching,,,zero,,18,20,
+NS,Western Zone,Annapolis Community Health Centre,G,Non-Teaching,,,,,,,6
+NS,Western Zone,Digby General Hospital,"G,R",Non-Teaching,,,,,13,,20
+NS,Western Zone,Fishermen’s Memorial Hospital,"E,G,R",Non-Teaching,,,,,12,23,18
+NS,Western Zone,Queens General Hospital,G,Non-Teaching,,,,,,,22
+NS,Western Zone,Roseway Hospital,G,Non-Teaching,,,,,,,19
+NS,Western Zone,Soldiers Memorial Hospital,"G,E",Non-Teaching,,,,18,,25,39
+NS,Western Zone,South Shore Regional Hospital,"G,S-Psy,S-Ped",Non-Teaching,5,10,,10,,,55
+NS,Western Zone,Valley Regional Hospital,"G,S-Psy",Non-Teaching,7,19,,9,,,102
+NS,Western Zone,Yarmouth Regional Hospital,"G,E,S-Psy",Non-Teaching,7,10,,14,,15,76
+NT,Beaufort-Delta Health and Social Services Authority,Inuvik Regional Hospital,"E,G,S-Ped",Teaching,,,,,,,
+NT,Fort Smith Health and Social Services Authority,Fort Smith Health Centre,"G,E",Non-Teaching,,,,,,,
+NT,Hay River Health and Social Services Authority,Hay River Regional Health Centre,"G,E",Non-Teaching,,,,,,,
+NT,Stanton Territorial Health Authority,Stanton Territorial Hospital,"S-Oth,E,S-Ped,S-Psy",Teaching,4,,10,10,,,30
+ON,Central East LHIN,Campbellford Memorial Hospital,G,Non-Teaching,,,,,,,34
+ON,Central East LHIN,Haliburton Highlands Health Services,G,Non-Teaching,,,,,,,15
+ON,Central East LHIN,Lakeridge Health,G,Non-Teaching,44,41,16,52,91,129,477
+ON,Central East LHIN,Northumberland Hills Hospital,G,Non-Teaching,6,6,,,34,,46
+ON,Central East LHIN,Ontario Shores Centre for Mental Health Sciences,S-Psy,Non-Teaching,,,,346,,,
+ON,Central East LHIN,Peterborough Regional Health Centre,G,Non-Teaching,23,18,11,36,40,48,304
+ON,Central East LHIN,Ross Memorial Hospital,G,Non-Teaching,8,10,,15,15,41,89
+ON,Central LHIN,Shouldice Hospital,S-Oth,Non-Teaching,,,,,,,83
+ON,Central LHIN,Southlake Regional Health Centre,G,Non-Teaching,31,20,10,35,30,33,290
+ON,Central LHIN,Stevenson Memorial Hospital,G,Non-Teaching,,10,,,,,28
+ON,Central West LHIN,Headwaters Health Care Centre,G,Non-Teaching,4,7,,,,19,46
+ON,Central West LHIN,William Osler Health System,G,Non-Teaching,54,59,28,98,75,25,569
+ON,Champlain LHIN,Almonte General Hospital,G,Non-Teaching,,5,,,,26,21
+ON,Champlain LHIN,Arnprior & District Memorial Hospital,G,Non-Teaching,,,,,,14,24
+ON,Champlain LHIN,Bruyère Continuing Care,"E,R,G",Non-Teaching,,,,,83,367,
+ON,Champlain LHIN,Carleton Place and District Memorial Hospital,G,Non-Teaching,,,,,,,20
+ON,Champlain LHIN,Children’s Hospital of Eastern Ontario,S-Ped,Teaching,10,,,24,,,99
+ON,Champlain LHIN,Cornwall Community Hospital,G,Non-Teaching,11,10,4,16,12,,103
+ON,Champlain LHIN,Deep River and District Hospital,G,Non-Teaching,,,,,,,11
+ON,Champlain LHIN,Hôpital Glengarry Memorial Hospital,G,Non-Teaching,,,,,10,5,22
+ON,Champlain LHIN,Hôpital Montfort,G,Non-Teaching,12,27,,52,21,,170
+ON,Champlain LHIN,Hôpital général de Hawkesbury & District General Hospital,G,Non-Teaching,4,8,,,,18,41
+ON,Champlain LHIN,Kemptville District Hospital,G,Non-Teaching,,,,,,2,24
+ON,Champlain LHIN,Pembroke Regional Hospital Inc.,G,Non-Teaching,7,7,,15,22,,68
+ON,Champlain LHIN,Queensway Carleton Hospital,G,Non-Teaching,12,40,,28,38,,177
+ON,Champlain LHIN,Renfrew Victoria Hospital,G,Non-Teaching,3,,,,,24,28
+ON,Champlain LHIN,Royal Ottawa Health Care Group,S-Psy,Non-Teaching,,,error,260,,,
+ON,Champlain LHIN,St. Francis Memorial Hospital,G,Non-Teaching,,,,,,10,10
+ON,Champlain LHIN,St. Joseph’s Continuing Care Centre McConnell Avenue Site,G,Non-Teaching,,,,,,58,
+ON,Champlain LHIN,The Ottawa Hospital,G,Teaching,55,48,,93,70,,762
+ON,Champlain LHIN,University of Ottawa Heart Institute,G,Non-Teaching,36,,,,,,107
+ON,Champlain LHIN,Winchester District Memorial Hospital,G,Non-Teaching,,5,,,,17,33
+ON,Erie St. Clair LHIN,Bluewater Health,G,Non-Teaching,14,10,10,28,40,50,153
+ON,Erie St. Clair LHIN,Chatham-Kent Health Alliance,G,Non-Teaching,10,7,3,21,28,31,101
+ON,Erie St. Clair LHIN,Erie Shores HealthCare,G,Non-Teaching,2,3,,,10,2,41
+ON,Erie St. Clair LHIN,Hôtel-Dieu Grace Healthcare,G,Non-Teaching,,,,49,90,120,
+ON,Erie St. Clair LHIN,Windsor Regional Hospital,G,Non-Teaching,49,40,16,74,4,,387
+ON,Hamilton Niagara Haldimand Brant LHIN,Brant Community Healthcare System,G,Non-Teaching,15,15,8,18,45,46,148
+ON,Hamilton Niagara Haldimand Brant LHIN,Haldimand War Memorial Hospital,G,Non-Teaching,,,1,,,13,26
+ON,Hamilton Niagara Haldimand Brant LHIN,Hamilton Health Sciences,G,Teaching,110,49,63,26,122,238,643
+ON,Hamilton Niagara Haldimand Brant LHIN,Hotel Dieu Shaver Health and Rehabilitation Centre,G,Non-Teaching,,,,,37,98,
+ON,Hamilton Niagara Haldimand Brant LHIN,Joseph Brant Hospital,G,Non-Teaching,17,12,4,16,45,29,132
+ON,Hamilton Niagara Haldimand Brant LHIN,Niagara Health System,G,Non-Teaching,51,28,16,91,,173,414
+ON,Hamilton Niagara Haldimand Brant LHIN,Norfolk General Hospital,G,Non-Teaching,6,5,,,,26,61
+ON,Hamilton Niagara Haldimand Brant LHIN,St. Joseph’s Healthcare Hamilton,G,Teaching,34,21,,364,19,46,312
+ON,Hamilton Niagara Haldimand Brant LHIN,West Haldimand General Hospital,G,Non-Teaching,,,,,,,23
+ON,Mississauga Halton LHIN,Halton Healthcare Services,G,Non-Teaching,27,36,8,66,52,110,351
+ON,Mississauga Halton LHIN,Trillium Health Partners,G,Non-Teaching,87,80,41,92,140,39,773
+ON,North East LHIN,Anson General Hospital,G,Non-Teaching,,,,,,,34
+ON,North East LHIN,Bingham Memorial Hospital,G,Non-Teaching,,,,,,20,17
+ON,North East LHIN,Blind River District Health Centre,G,Non-Teaching,,,,,,20,20
+ON,North East LHIN,Englehart and District Hospital,G,Non-Teaching,,,,,,,8
+ON,North East LHIN,Espanola General Hospital,G,Non-Teaching,,,,,,32,15
+ON,North East LHIN,Health Sciences North / Horizon Santé-Nord,G,Non-Teaching,25,8,9,71,30,,311
+ON,North East LHIN,Hornepayne Community Hospital,G,Non-Teaching,,,,,,12,6
+ON,North East LHIN,Hôpital Notre-Dame Hospital,G,Non-Teaching,,,,,,21,23
+ON,North East LHIN,Hôpital de Mattawa Hospital,G,Non-Teaching,,,,,,,19
+ON,North East LHIN,Hôpital de Smooth Rock Falls Hospital,G,Non-Teaching,,,,,,20,17
+ON,North East LHIN,Kirkland and District Hospital,G,Non-Teaching,6,,,,,,32
+ON,North East LHIN,Lady Dunn Health Centre,G,Non-Teaching,,,,,,16,12
+ON,North East LHIN,Lady Minto Hospital,G,Non-Teaching,,,,,,,14
+ON,North East LHIN,Manitoulin Health Centre,G,Non-Teaching,,2,4,,,,26
+ON,North East LHIN,North Bay Regional Health Centre,"G,S-Psy",Non-Teaching,16,9,10,171,29,30,123
+ON,North East LHIN,Sault Area Hospital,G,Non-Teaching,18,6,4,36,46,50,110
+ON,North East LHIN,Sensenbrenner Hospital,G,Non-Teaching,,,,,,20,33
+ON,North East LHIN,Services de santé de Chapleau Health Services,G,Non-Teaching,,,,,,25,12
+ON,North East LHIN,St. Joseph’s General Hospital [Elliot Lake],G,Non-Teaching,6,,,,,2,46
+ON,North East LHIN,Temiskaming Hospital,G,Non-Teaching,3,5,,,,11,40
+ON,North East LHIN,Timmins and District Hospital,G,Non-Teaching,7,10,5,24,10,31,65
+ON,North East LHIN,Weeneebayko Area Health Authority,G,Non-Teaching,,,,,,6,6
+ON,North East LHIN,West Nipissing General Hospital,G,Non-Teaching,,,2,,,19,29
+ON,North East LHIN,West Parry Sound Health Centre,"E,G",Non-Teaching,6,2,,,5,20,57
+ON,North Simcoe Muskoka LHIN,Collingwood General and Marine Hospital,G,Non-Teaching,5,5,,,,,64
+ON,North Simcoe Muskoka LHIN,Georgian Bay General Hospital,G,Non-Teaching,7,3,,,15,21,66
+ON,North Simcoe Muskoka LHIN,Hôpital privé Beechwood Private Hospital,E,Non-Teaching,,,,,,,
+ON,North Simcoe Muskoka LHIN,Muskoka Algonquin Healthcare,G,Non-Teaching,9,7,,,,16,64
+ON,North Simcoe Muskoka LHIN,Orillia Soldiers’ Memorial Hospital,G,Non-Teaching,8,10,6,23,7,9,85
+ON,North Simcoe Muskoka LHIN,Royal Victoria Regional Health Centre,G,Non-Teaching,22,16,8,44,33,,240
+ON,North Simcoe Muskoka LHIN,Waypoint Centre for Mental Health Care,S-Psy,Non-Teaching,,,,301,,,
+ON,North West LHIN,Atikokan General Hospital,G,Non-Teaching,,,,,,26,15
+ON,North West LHIN,Dryden Regional Health Centre,G,Non-Teaching,,,,,,,41
+ON,North West LHIN,Geraldton District Hospital,G,Non-Teaching,,,,,,26,23
+ON,North West LHIN,Lake of the Woods District Hospital,G,Non-Teaching,4,3,,17,,,45
+ON,North West LHIN,Nipigon District Memorial Hospital,G,Non-Teaching,,,,,,10,5
+ON,North West LHIN,North of Superior Healthcare Group,"E,G",Non-Teaching,,2,,,,25,18
+ON,North West LHIN,Red Lake Margaret Cochenour Memorial Hospital,G,Non-Teaching,,,,,,,18
+ON,North West LHIN,Riverside Health Care Facilities Inc.,G,Non-Teaching,3,2,2,,,33,72
+ON,North West LHIN,Santé Manitouwadge Health,G,Non-Teaching,,,,,,9,9
+ON,North West LHIN,Sioux Lookout Meno Ya Win Health Centre,G,Non-Teaching,,5,,,,20,54
+ON,North West LHIN,St. Joseph’s Care Group,"E,S-Psy,R",Non-Teaching,,,,39,50,175,
+ON,North West LHIN,Thunder Bay Regional Health Sciences Centre,G,Non-Teaching,22,18,12,58,,,318
+ON,South East LHIN,Brockville General Hospital,G,Non-Teaching,9,13,,24,,47,55
+ON,South East LHIN,Kingston Health Sciences Centre,G,Non-Teaching,65,19,15,46,,,336
+ON,South East LHIN,Lennox and Addington County General Hospital,G,Non-Teaching,,,,,,,30
+ON,South East LHIN,Perth and Smiths Falls District Hospital,G,Non-Teaching,8,4,,,,,76
+ON,South East LHIN,Quinte Health Care,G,Non-Teaching,15,14,6,22,43,20,146
+ON,South East LHIN,St. Mary’s of the Lake Hospital,"S-Psy,E,R",Non-Teaching,,,,120,50,100,
+ON,South West LHIN,Alexandra Hospital,G,Non-Teaching,4,,,,,5,17
+ON,South West LHIN,Alexandra Marine and General Hospital,G,Non-Teaching,4,2,,20,,,16
+ON,South West LHIN,Clinton Public Hospital,G,Non-Teaching,,,,,,,20
+ON,South West LHIN,Four Counties Health Services,G,Non-Teaching,,,,,,,12
+ON,South West LHIN,Grey Bruce Health Services,G,Non-Teaching,18,16,,43,16,10,121
+ON,South West LHIN,Hanover and District Hospital,G,Non-Teaching,,2,,,,,26
+ON,South West LHIN,Listowel Memorial Hospital,G,Non-Teaching,,4,,,,15,20
+ON,South West LHIN,London Health Sciences Centre,G,Teaching,97,59,63,128,,,711
+ON,South West LHIN,Seaforth Community Hospital,G,Non-Teaching,,,,,,,20
+ON,South West LHIN,South Bruce Grey Health Centre,G,Non-Teaching,,3,,,,,74
+ON,South West LHIN,South Huron Hospital,G,Non-Teaching,,,,,,,19
+ON,South West LHIN,St. Joseph’s Health Care London,"S-Psy,E,G,R",Teaching,,,,239,114,111,1
+ON,South West LHIN,St. Marys Memorial Hospital,G,Non-Teaching,,,,,,,20
+ON,South West LHIN,St. Thomas Elgin General Hospital,G,Non-Teaching,6,6,6,15,15,30,77
+ON,South West LHIN,Stratford General Hospital,G,Non-Teaching,6,11,4,15,8,5,66
+ON,South West LHIN,Strathroy Middlesex General Hospital,G,Non-Teaching,4,,,,,,50
+ON,South West LHIN,Tillsonburg District Memorial Hospital,G,Non-Teaching,5,,,,,10,33
+ON,South West LHIN,Wingham and District Hospital,G,Non-Teaching,,,,,5,5,22
+ON,South West LHIN,Woodstock General Hospital,G,Non-Teaching,12,14,,17,22,21,77
+ON,Toronto Central LHIN,Baycrest,"E,R,S-Psy",Non-Teaching,,,,40,32,190,
+ON,Toronto Central LHIN,Casey House,S-Oth,Non-Teaching,,,,,,,13
+ON,Toronto Central LHIN,Centre for Addiction and Mental Health,S-Psy,Non-Teaching,,,,495,,,
+ON,Toronto Central LHIN,Holland Bloorview Kids Rehabilitation Hospital,"R,E",Non-Teaching,,,,,47,16,
+ON,Toronto Central LHIN,Hospital for Sick Children,S-Ped,Teaching,32,,,10,,,221
+ON,Toronto Central LHIN,Michael Garron Hospital,G,Non-Teaching,26,21,7,45,13,75,180
+ON,Toronto Central LHIN,Runnymede Healthcare Centre,E,Non-Teaching,,,,,9,197,
+ON,Toronto Central LHIN,Sinai Health System,G,Non-Teaching,24,64,,15,96,342,191
+ON,Toronto Central LHIN,Sunnybrook Health Sciences Centre,G,Teaching,70,48,,34,173,340,433
+ON,Toronto Central LHIN,The Salvation Army Toronto Grace Health Centre,"E,G",Non-Teaching,,,,,error,100,19
+ON,Toronto Central LHIN,Unity Health Toronto,G,Teaching,97,49,10,86,134,111,594
+ON,Toronto Central LHIN,University Health Network,G,Teaching,97,,,34,213,181,728
+ON,Toronto Central LHIN,West Park Healthcare Centre,"E,R",Non-Teaching,,,,,119,146,
+ON,Waterloo Wellington LHIN,Cambridge Memorial Hospital,G,Non-Teaching,7,10,7,20,14,,80
+ON,Waterloo Wellington LHIN,Grand River Hospital,G,Non-Teaching,19,41,12,112,32,120,175
+ON,Waterloo Wellington LHIN,Groves Memorial Community Hospital,G,Non-Teaching,,3,,,,9,27
+ON,Waterloo Wellington LHIN,Guelph General Hospital,G,Non-Teaching,22,22,8,,,,148
+ON,Waterloo Wellington LHIN,Homewood Health Centre Inc.,S-Psy,Non-Teaching,,,,301,,,
+ON,Waterloo Wellington LHIN,North Wellington Health Care Corporation,G,Non-Teaching,,2,,,,,28
+ON,Waterloo Wellington LHIN,St. Joseph’s Health Centre Guelph,"E,R",Non-Teaching,,,,,31,63,
+ON,Waterloo Wellington LHIN,St. Mary’s General Hospital,G,Non-Teaching,31,,,,,,154
+PE,Health PEI,Hillsborough Hospital,S-Psy,Non-Teaching,,,,69,,,
+PE,Health PEI,Kings County Memorial Hospital,G,Non-Teaching,,,,,,,30
+PE,Health PEI,O’Leary Community Hospital,"G,E",Non-Teaching,,,,,,,13
+PE,Health PEI,Prince County Hospital,"G,C,R,S-Psy",Non-Teaching,6,9,7,14,,,64
+PE,Health PEI,Queen Elizabeth Hospital,"G,C,R",Non-Teaching,18,15,12,24,20,,144
+PE,Health PEI,Souris Hospital,G,Non-Teaching,,,,,,,17
+PE,Health PEI,Western Hospital,G,Non-Teaching,,,,,,,27
+QC,CRSSS de la Baie-James,CRSSS de la Baie-James,,,3,4,,,,,31
+QC,CHUM,CHUM,,,91,19,,28,,,555
+QC,CISSS des Îles,CISSS des Îles,,,3,3,,4,,,20
+QC,CHU de Québec,CHU de Québec,,,126,98,81,,,,902
+QC,CISSS du Bas-Saint-Laurent,CISSS du Bas-Saint-Laurent,,,29,29,27,58,,,332
+QC,CIUSSS du Saguenay–Lac-Saint-Jean,CIUSSS du Saguenay–Lac-Saint-Jean,,,40,61,39,110,,,566
+QC,CIUSSS de la Capitale-Nationale,CIUSSS de la Capitale-Nationale,,,,4,,325,42,,326
+QC,CIUSSS de la Mauricie et du Centre-du-Québec,CIUSSS de la Mauricie et du Centre-du-Québec,,,50,69,52,138,26,,844
+QC,CIUSSS de l’Estrie - CHUS,CIUSSS de l’Estrie - CHUS,,,84,55,43,141,24,,730
+QC,CIUSSS de l’Ouest-de-l’Île-de-Montréal,CIUSSS de l’Ouest-de-l’Île-de-Montréal,,,35,97,,326,,,445
+QC,CIUSSS du Centre-Ouest-de-l’Île-de-Montréal,CIUSSS du Centre-Ouest-de-l’Île-de-Montréal,,,60,51,,48,,,572
+QC,CIUSSS du Centre-Sud-de-l’Île-de-Montréal,CIUSSS du Centre-Sud-de-l’Île-de-Montréal,,,25,,,38,174,,442
+QC,CIUSSS du Nord-de-l’Île-de-Montréal,CIUSSS du Nord-de-l’Île-de-Montréal,,,42,26,,224,,,570
+QC,CIUSSS de l’Est-de-l’Île-de-Montréal,CIUSSS de l’Est-de-l’Île-de-Montréal,,,42,26,16,267,33,,742
+QC,CISSS de l’Outaouais,CISSS de l’Outaouais,,,37,29,18,164,,,523
+QC,CISSS de l’Abitibi-Témiscamingue,CISSS de l’Abitibi-Témiscamingue,,,21,29,22,66,17,,202
+QC,CISSS de la Côte-Nord,CISSS de la Côte-Nord,,,9,21,20,42,,,146
+QC,CISSS de la Gaspésie,CISSS de la Gaspésie,,,16,16,11,32,,,130
+QC,CISSS de Laval,CISSS de Laval,,,22,46,20,54,,,553
+QC,CISSS de Lanaudière,CISSS de Lanaudière,,,44,54,33,141,,,546
+QC,CISSS des Laurentides,CISSS des Laurentides,,,41,59,15,171,30,,684
+QC,CISSS de la Montérégie-Centre,CISSS de la Montérégie-Centre,,,44,34,33,141,,,599
+QC,CISSS de la Montérégie-Est,CISSS de la Montérégie-Est,,,28,47,18,117,15,,596
+QC,CISSS de la Montérégie-Ouest,CISSS de la Montérégie-Ouest,,,18,34,4,63,15,,412
+QC,CISSS de Chaudière-Appalaches,CISSS de Chaudière-Appalaches,,,41,41,22,117,,,383
+QC,Institut de cardiologie de Montréal,Institut de cardiologie de Montréal,,,66,,,,,,87
+QC,Hôpital Marie-Clarac,Hôpital Marie-Clarac,,,,,,,,,228
+QC,CUSM,CUSM,,,124,29,68,54,,,529
+QC,CHU Sainte-Justine,CHU Sainte-Justine,,,30,86,158,12,,,
+QC,INPL Philippe-Pinel,INPL Philippe-Pinel,,,,,,267,,,
+QC,Hôpital Shriners pour enfants Inc.,Hôpital Shriners pour enfants Inc.,,,,,,,,,22
+QC,Inst. univ. cardio. et pneumo. de Québec – UL,Inst. univ. cardio. et pneumo. de Québec – UL,,,45,,,,,,282
+QC,CS Inuulitsivik,CS Inuulitsivik,,,,,,,,,19
+QC,Villa Médica Inc.,Villa Médica Inc.,,,,,,,142,,
+QC,CH Kateri Memorial - Tehsakotitsén:tha,CH Kateri Memorial - Tehsakotitsén:tha,,,,,,,,,10
+SK,Cypress Health Region,Cypress Regional Hospital,"G,S-Ped,S-Psy",Non-Teaching,4,15,,10,,,48
+SK,Cypress Health Region,Herbert and District Integrated Health Facility,G,Non-Teaching,,,,,,,6
+SK,Cypress Health Region,Leader and District Integrated Healthcare Facility,G,Non-Teaching,,,,,,,6
+SK,Cypress Health Region,Shaunavon Hospital and Care Centre,G,Non-Teaching,,,,,,,10
+SK,Cypress Health Region,Southwest Integrated Healthcare Facility,G,Non-Teaching,,,,,,,10
+SK,Five Hills Health Region,Assiniboia Union Hospital,"G,E",Non-Teaching,,,,,,,17
+SK,Five Hills Health Region,Central Butte Regency Hospital,"G,E",Non-Teaching,,,,,,,5
+SK,Five Hills Health Region,Dr. F.H. Wigmore Regional Hospital,G,Non-Teaching,4,7,10,12,,,40
+SK,Five Hills Health Region,Emmanuel Health  St. Joseph’s Hospital/Foyer d’Youville,"G,E",Non-Teaching,,,,,,,9
+SK,Heartland Health Region,Biggar Hospital,G,Non-Teaching,,,,,,,15
+SK,Heartland Health Region,Davidson Health Centre,G,Non-Teaching,,,zero,,,,5
+SK,Heartland Health Region,Kerrobert Integrated Health Centre,G,Non-Teaching,,,,,,,8
+SK,Heartland Health Region,Kindersley and District Health Centre,G,Non-Teaching,,,,,,,26
+SK,Heartland Health Region,Outlook and District Health Centre,G,Non-Teaching,,,,,,,13
+SK,Heartland Health Region,Rosetown Health Centre,G,Non-Teaching,,,,,,,21
+SK,Heartland Health Region,Unity and District Health Centre,G,Non-Teaching,,,,,,,10
+SK,Keewatin Yatthé Health Region,La Loche Health Centre,"G,E",Non-Teaching,,,,,,,19
+SK,Keewatin Yatthé Health Region,St. Joseph’s Health Centre,"G,E",Non-Teaching,,,,,,,13
+SK,Kelsey Trail Health Region,Hudson Bay Health Care Facility,G,Non-Teaching,,,,,,,5
+SK,Kelsey Trail Health Region,Kelvington Hospital,G,Non-Teaching,,,,,,,7
+SK,Kelsey Trail Health Region,Melfort Hospital,G,Non-Teaching,,,,,,,24
+SK,Kelsey Trail Health Region,Nipawin Hospital,G,Non-Teaching,,,,,,,24
+SK,Kelsey Trail Health Region,Porcupine Carragana Hospital,G,Non-Teaching,,,,,,,7
+SK,Kelsey Trail Health Region,Tisdale Hospital,G,Non-Teaching,,,,,,,15
+SK,Mamawetan Churchill River Health Region,La Ronge Health Centre,G,Non-Teaching,,,,,,,24
+SK,Prairie North Health Region,Battlefords Union Hospital,"G,S-Psy",Non-Teaching,3,15,,,,,48
+SK,Prairie North Health Region,Lloydminster Hospital,G,Non-Teaching,,13,,,,,53
+SK,Prairie North Health Region,Maidstone Health Complex,G,Non-Teaching,,,,,,,11
+SK,Prairie North Health Region,Northwest Health Facility,G,Non-Teaching,,,,,,,32
+SK,Prairie North Health Region,Riverside Health Complex,G,Non-Teaching,,,,,,,9
+SK,Prairie North Health Region,Saskatchewan Hospital,S-Psy,Non-Teaching,,,,280,,,
+SK,Prince Albert Parkland Health Region,Parkland Integrated Health Centre,G,Non-Teaching,,,,,,,20
+SK,Prince Albert Parkland Health Region,Victoria Hospital,G,Non-Teaching,8,13,14,10,,,99
+SK,Regina Qu’Appelle Health Region,Balcarres Integrated Care Centre,G,Non-Teaching,,,,,,,
+SK,Regina Qu’Appelle Health Region,Broadview Union Hospital,G,Non-Teaching,,,,,,,16
+SK,Regina Qu’Appelle Health Region,Indian Head Hospital,G,Non-Teaching,,,,,,,15
+SK,Regina Qu’Appelle Health Region,Pasqua Hospital,"G,S-Ped",Teaching,6,,,,,24,243
+SK,Regina Qu’Appelle Health Region,Regina General Hospital,"G,S-Psy,S-Ped",Teaching,31,36,26,60,,,315
+SK,Regina Qu’Appelle Health Region,Southeast Integrated Care Centre  Moosomin,G,Non-Teaching,,,,,,,27
+SK,Regina Qu’Appelle Health Region,St. Joseph’s Integrated Care Centre,G,Non-Teaching,,,,,,,
+SK,Regina Qu’Appelle Health Region,Wascana Rehabilitation Centre,R,Non-Teaching,,,,,45,,
+SK,Regina Qu’Appelle Health Region,Wolseley Memorial Integrated Care Centre,G,Non-Teaching,,,,,,,10
+SK,Saskatoon Health Region,Emmanuel Health  St. Paul’s Hospital,"G,S-Oth",Teaching,10,,,,,,234
+SK,Saskatoon Health Region,Humboldt District Hospital,"G,S-Oth",Non-Teaching,,,,,,,38
+SK,Saskatoon Health Region,Lanigan Hospital,"G,E",Non-Teaching,,,,,,,10
+SK,Saskatoon Health Region,Rosthern Hospital,G,Non-Teaching,,,,,,,19
+SK,Saskatoon Health Region,Royal University Hospital,"G,S-Psy,S-Oth,S-Ped",Teaching,30,62,42,64,,,233
+SK,Saskatoon Health Region,Saskatoon City Hospital,"G,R,S-Oth",Teaching,,,,,35,30,103
+SK,Saskatoon Health Region,Wadena Hospital,"G,E",Non-Teaching,,,,,,,20
+SK,Saskatoon Health Region,Watrous Hospital,G,Non-Teaching,,,,,,,8
+SK,Saskatoon Health Region,Wynyard Integrated Hospital,G,Non-Teaching,,,,,,,8
+SK,Sun Country Health Region,Arcola Health Centre,G,Non-Teaching,,,,,,,12
+SK,Sun Country Health Region,Emmanuel Health  St. Joseph’s Hospital [Estevan],G,Non-Teaching,,,,,,,53
+SK,Sun Country Health Region,Kipling Integrated Health Centre,G,Non-Teaching,,,,,,,12
+SK,Sun Country Health Region,Redvers Health Centre,G,Non-Teaching,,,,,,,5
+SK,Sun Country Health Region,Weyburn General Hospital,G,Non-Teaching,5,,,,,,35
+SK,Sunrise Health Region,Canora Hospital,G,Non-Teaching,,,,,,,16
+SK,Sunrise Health Region,Emmanuel Health  St. Anthony’s Hospital,G,Non-Teaching,,,,,,,22
+SK,Sunrise Health Region,Emmanuel Health  St. Peter’s Hospital [Melville],G,Non-Teaching,,,,,,,30
+SK,Sunrise Health Region,Kamsack Hospital and Nursing Home,G,Non-Teaching,,,,,,,20
+SK,Sunrise Health Region,Preeceville and District Health Centre,G,Non-Teaching,,,,,,,10
+SK,Sunrise Health Region,Yorkton Regional Health Centre,"G,S-Psy,S-Ped",Non-Teaching,6,14,13,,,,54
+YT,Yukon,Dawson City Community Hospital,G,Non-Teaching,,,,,,,6
+YT,Yukon,Watson Lake Community Hospital,G,Non-Teaching,,,,,,,6
+YT,Yukon,Whitehorse General Hospital,G,Non-Teaching,,,,,,,55
